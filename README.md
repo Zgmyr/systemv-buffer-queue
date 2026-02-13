@@ -10,7 +10,7 @@
 I built this project while concurrently taking **Operating Systems** at the University of Missouri-St. Louis. My goal was to learn and practice **fork/exec** and **System V shared memory**. This project demonstrates a **shared memory circular buffer queue**, illustrating the **producer-consumer relationship** between a client and a server.
 
 > **Note:** This was an independent project for practice — not assigned coursework.  
-> All development was performed in a command-line environment: I an SSH connection to the campus Linux server & used standard terminal tools for editing, compiling, and running the programs.
+> All development was performed in a command-line environment: I used an SSH connection to the campus Linux server & used standard terminal tools for editing, compiling, and running the programs.
 
 ---
 
